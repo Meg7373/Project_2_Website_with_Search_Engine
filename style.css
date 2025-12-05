@@ -1,0 +1,19 @@
+header {
+    min-height: 10vh;
+}
+
+nav {
+    text-align: right;
+}
+
+main {
+    min-height: 80vh;
+}
+
+div {
+    text-align: center;
+}
+
+footer {
+    min-height: 10vh;
+}

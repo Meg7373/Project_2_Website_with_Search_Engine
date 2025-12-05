@@ -26,6 +26,7 @@ The Home page offers a navigation bar at the top. In the center of the page is a
 1. Add the option for the user to send themselves an image(s) to their email.
 2. Create the option for users to generate images based upon multiple keywords inputted simultaneously.
 3. Add more images per search than the current 25 images.
+4. Add the option for users to check their personal search history.
 
 ### User Stories
 
