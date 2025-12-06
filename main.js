@@ -1,0 +1,10 @@
+document.getElementById('search-form').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const searchTerm = document.getElementById('search-input').ariaValueMax;
+    const apiKey = 'FSyEmnPbhNQmyLUGJRWirAgWeiFaxsQm';
+    const apiUrl = `https://api.giphy.com/v1/gifs/search?q=${searchTerm}api_key=${FSyEmnPbhNQmyLUGJRWirAgWeiFaxsQm}&limit=25`;
+
+    try {
+        const response = await fetch(apiUrl);
+    }
+})
