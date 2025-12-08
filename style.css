@@ -1,10 +1,14 @@
+body {
+    background-color: rgb(95, 95, 95);
+}
+
 header {
     min-height: 10vh;
 }
 
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color:#333;
 }
 
 .topnav a {
@@ -68,12 +72,15 @@ button {
 }
 
 #gif-results {
-    display: inline-flexbox;
-    gap: 5px;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    -ms-flex-item-align: center;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
 }
 
 footer {
     min-height: 10vh;
     text-align: center;
+    background-color: #333;
+    color: white;
 }

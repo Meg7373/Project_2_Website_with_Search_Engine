@@ -22,6 +22,3 @@ document.getElementById('search-form').addEventListener('submit', async (e) => {
     }
 });
 
-function resetForm () {
-    document.getElementById("gif-results").reset();
-}
