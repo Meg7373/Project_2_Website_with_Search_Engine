@@ -55,6 +55,24 @@ main {
     margin-bottom: 20px;
 }
 
+#search-input {
+    padding: 10px;
+    width: 300px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 10px 15px;
+    background-color: rgb(243, 108, 51);
+    color: black;
+}
+
+#gif-results {
+    display: inline-flexbox;
+    gap: 5px;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+}
+
 footer {
     min-height: 10vh;
     text-align: center;
