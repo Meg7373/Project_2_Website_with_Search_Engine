@@ -30,10 +30,15 @@ header {
 
 main {
     min-height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
 }
 
-.flex-container {
+.container {
     text-align: center;
+    margin: auto;
 }
 
 .nabla {
@@ -44,6 +49,10 @@ main {
   font-variation-settings:
     "EDPT" 100,
     "EHLT" 12;
+}
+
+#search-form {
+    margin-bottom: 20px;
 }
 
 footer {
