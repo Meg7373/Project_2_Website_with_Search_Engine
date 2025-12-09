@@ -11,6 +11,7 @@ document.getElementById('search-form').addEventListener('submit', async (e) => {
         gifResultsDiv.innerHTML = '';
 
         data.data.forEach(gif => {
+            console.log (gif)
             const img = document.createElement('img');
             img.src = gif.images.fixed_height.url;
             img.alt = gif.title;
