@@ -29,9 +29,9 @@ The Home page offers a navigation bar at the top. In the center of the page is a
 3. As a student, I want to find Giphy images so that I can copy and paste them for my classroom Power Point.
 
 ### Wireframes
-![Images Inc. Home Page: Desktop Version](/DesktopPage.drawio.png)
+![Images Inc. Home Page: Desktop Version](/images/DesktopPage.drawio.png)
 
-![Images Inc. Home Page: Mobile Version](/MobilePage.drawio.png)
+![Images Inc. Home Page: Mobile Version](/images/MobilePage.drawio.png)
 
 ### Website Pages 
 ![Images Inc. Home Page: Desktop Version](/images/Desktop.png)
