@@ -1,17 +1,11 @@
 # Project 2 Website with a Search Engine
 
-## Meaghann Wallace
-
-### LinkedIn Profile Link: 
-
-* www.linkedin.com/in/meaghann-wallace-2137a3247 
-
-### Overview/Description of the Project
+### Overview of the Project
 
 The overview of the project is to offer a search engine within the website itself so that users can search for images based on keywords typed into the search box, and generate images. It also offers a button that will allow the user to clear any current searches for new ones. 
 It requires the following features: a GitHub respository for the project, user stories, wireframes of each application window (desktop and mobile views), and functional website features. It is comprised of one HTML page, a CSS style sheet, a Javascript page, a navigation bar, a Google font, an input field for the search engine box, a submit button, a clear button, generate Giphy images based on typed keyword, 15+ GitHub commits, and no HTML validator errors/warnings.
 
-### Functionality/Useabilty of the Website
+### Functionality of the Website
 
 The Home page offers a navigation bar at the top. In the center of the page is a Search engine box that allows a keyword to be typed in (at the user's preference/need), and generates twenty-five images based upon the word used in the center of the page below the box. Next to the search engine box is a 'Submit' button as well as a 'Clear' button so that the user can clear each search before starting a new one.
 
@@ -37,3 +31,9 @@ The Home page offers a navigation bar at the top. In the center of the page is a
 ### Wireframes
 
 ### Website Pages 
+
+### Meaghann Wallace
+
+### LinkedIn Profile Link: 
+
+* www.linkedin.com/in/meaghann-wallace
