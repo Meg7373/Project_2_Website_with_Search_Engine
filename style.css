@@ -81,18 +81,6 @@ button {
     
 }
 
-footer {
-    min-height: 10vh;
-    text-align: center;
-    background-color: #333;
-    color: white;
-}
-
-/* img {
-    flex: 10% 10% 10% 10% 10%;
-    padding:10px;
-} */
-
 img {
     min-width:300px;
     min-height: 250px;
@@ -100,4 +88,11 @@ img {
     max-width:300px;
     padding: 10px;
     border:2px solid rgb(127, 127, 127)
+}
+
+footer {
+    min-height: 10vh;
+    text-align: center;
+    background-color: #333;
+    color: white;
 }
