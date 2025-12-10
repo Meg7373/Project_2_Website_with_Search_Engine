@@ -8,7 +8,7 @@
           <mxGeometry height="1070" width="780" x="30" y="10" as="geometry" />
         </mxCell>
         <mxCell id="4avQ2XnhqQqjiMJBu3__-43" parent="1" style="shape=rect;rSize=3;strokeColor=none;fillColor=#D2D3D5;gradientColor=none;shadow=0;html=1;" value="" vertex="1">
-          <mxGeometry height="90" width="660" x="90" y="180" as="geometry" />
+          <mxGeometry height="90" width="660" x="90" y="200" as="geometry" />
         </mxCell>
         <mxCell id="4avQ2XnhqQqjiMJBu3__-44" parent="4avQ2XnhqQqjiMJBu3__-43" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.topButton;rSize=3;strokeColor=#D2D3D5;fontSize=8;fillColor=#F1F1F1;fontColor=#0080F0;resizeWidth=1;whiteSpace=wrap;" value="" vertex="1">
           <mxGeometry height="20" relative="1" width="619.7560975609757" as="geometry">
@@ -30,8 +30,43 @@
             <mxPoint x="20" y="70" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4avQ2XnhqQqjiMJBu3__-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="90" width="660" x="90" y="280" as="geometry" />
+        <mxCell id="4avQ2XnhqQqjiMJBu3__-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Giphy Search Engine&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="660" x="90" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="4avQ2XnhqQqjiMJBu3__-56" parent="1" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.appBar;fillColor=#ffffff;gradientColor=none;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" value="" vertex="1">
+          <mxGeometry height="15" width="660" x="90" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="4avQ2XnhqQqjiMJBu3__-57" parent="4avQ2XnhqQqjiMJBu3__-56" style="shape=rect;align=left;fontSize=8;spacingLeft=24;fontSize=4;fontColor=#aaaaaa;strokeColor=none;fillColor=none;spacingTop=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Helvetica;html=1;" value="CARRIER" vertex="1">
+          <mxGeometry height="13" relative="1" width="50" y="0.5" as="geometry">
+            <mxPoint y="-6.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4avQ2XnhqQqjiMJBu3__-58" parent="4avQ2XnhqQqjiMJBu3__-56" style="shape=rect;fontSize=8;fontColor=#aaaaaa;strokeColor=none;fillColor=none;spacingTop=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Helvetica;html=1;" value="11:55PM" vertex="1">
+          <mxGeometry height="13" relative="1" width="50" x="0.5" y="0.5" as="geometry">
+            <mxPoint x="-25" y="-6.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4avQ2XnhqQqjiMJBu3__-59" parent="4avQ2XnhqQqjiMJBu3__-56" style="shape=rect;align=right;fontSize=8;spacingRight=19;fontSize=6;fontColor=#aaaaaa;strokeColor=none;fillColor=none;spacingTop=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Helvetica;html=1;" value="98%" vertex="1">
+          <mxGeometry height="13" relative="1" width="45" x="1" y="0.5" as="geometry">
+            <mxPoint x="-45" y="-6.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4avQ2XnhqQqjiMJBu3__-60" parent="1" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iButton;strokeColor=#444444;fontColor=#ffffff;buttonText=;fontSize=8;fillColor=#dddddd;fillColor2=#3D5565;whiteSpace=wrap;align=center;sketch=0;" value="Button" vertex="1">
+          <mxGeometry height="15" width="43.5" x="480" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="4avQ2XnhqQqjiMJBu3__-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Footer&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="670" x="85" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="4avQ2XnhqQqjiMJBu3__-62" parent="1" style="shape=rect;fillColor=#e0e0e0;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="20" width="164" x="280" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="4avQ2XnhqQqjiMJBu3__-63" parent="4avQ2XnhqQqjiMJBu3__-62" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.marginRect;rx=3;ry=3;rectMargin=5;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="20" width="164" as="geometry" />
+        </mxCell>
+        <mxCell id="4avQ2XnhqQqjiMJBu3__-64" parent="4avQ2XnhqQqjiMJBu3__-62" style="shape=mxgraph.ios7.icons.looking_glass;strokeColor=#e0e0e0;fillColor=none;fontColor=#e0e0e0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontSize=6;fontStyle=0;spacingTop=2;sketch=0;html=1;" value="Search" vertex="1">
+          <mxGeometry height="6" relative="1" width="6" x="0.5" y="0.5" as="geometry">
+            <mxPoint x="-17" y="-3" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
