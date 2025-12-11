@@ -25,7 +25,7 @@ The Home page offers a navigation bar at the top. In the center of the page is a
 ### User Stories
 
 1. As a user, I want to type keywords in the search box so that it results in related Giphy images.
-2. As a grandparent, I want to find funny Giphy images so that I can show my grandchildren when they come over to my house.
+2. As a grandparent, I want to find funny Giphy images on my mobile phone so that I can show my grandchildren when they come over to my house.
 3. As a student, I want to find Giphy images so that I can copy and paste them for my classroom Power Point.
 
 ### Wireframes
